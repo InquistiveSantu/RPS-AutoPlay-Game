@@ -21,4 +21,10 @@ The game features persistent score tracking with localStorage, auto-play mode, k
 - CSS
 - JavaScript
 
+
+## Live Demo
+🔗 https://inquistivesantu.github.io/RPS-AutoPlay-Game/
+
+
 ## Project Structure
+  
